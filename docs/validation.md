@@ -2,7 +2,7 @@
 
 | 項目 | 結果 | 證據或原因 |
 |---|---|---|
-| 名稱與版本 | 通過 | README、CHANGELOG、發布文件均為 ai-to-agent-video-to-slides／0.1.0 |
+| 名稱與版本 | 通過 | README、CHANGELOG、發布文件均為 ai-to-agent-video-to-slides／0.1.1 |
 | 相對連結 | 通過 | 程式檢查 Markdown 目標均存在 |
 | 五張圖卡 | 通過 | 五個 PNG 可解碼，依 01～05 命名；首頁採最終兩行版 |
 | 文件與流程 | 通過 | 八關、五項素材、模板與示範已收錄 |
@@ -12,6 +12,6 @@
 | 私密資料 | 通過 | 僅本次圖卡與新文件，未包含憑證或真實客戶資料 |
 | 圖卡素材說明 | 通過 | assets/SOURCES.md 記載來源與版本 |
 | 授權 | 通過 | 2026-10-27 使用者選定保留所有權利（All rights reserved）；LICENSE 為完整聲明，不授予開源權利 |
-| GitHub repo／tag／Release | 部分 | 2026-10-27 建立公開 Repo 並建立 tag v0.1.0；尚未建立 GitHub Release |
+| GitHub repo／tag／Release | 部分 | 2026-10-27 建立公開 Repo 與 tag v0.1.0；2026-10-29 建立 tag v0.1.1；尚未建立 GitHub Release |
 
 結論：內容包已整理並檢查，已發布為公開 Repo；影片端到端實測與 GitHub Release 尚未完成。

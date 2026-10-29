@@ -2,7 +2,7 @@
 
 - Owner：draiagent（2026-10-27 已建立公開 Repo）
 - Repo：ai-to-agent-video-to-slides
-- 版本／預計 tag：0.1.0／v0.1.0
+- 版本／tag：0.1.1／v0.1.1（前一版 v0.1.0 保持不動）
 - Description：用 Agent Skills 與公司案例，依 VAD／VAC 八關完成教學簡報動畫與發布素材。
 - Topics：ai-to-agent, vad, vac, agent-skills, instructional-design, video-to-slides, traditional-chinese
 - Visibility：公開（2026-10-27 使用者確認）。
@@ -21,4 +21,4 @@
 4. 檢查提交內容後建立 v0.1.0 tag 與 Release，使用上述說明並附專案 ZIP。
 5. 驗證遠端 repo、tag、Release 連結後才宣稱發布完成。
 
-2026-10-27 已建立公開 repo 並建立 tag v0.1.0；尚未建立 GitHub Release。
+2026-10-27 已建立公開 repo 並建立 tag v0.1.0；2026-10-29 發布 v0.1.1（更新第 3 張圖卡並對齊八關文件），v0.1.0 不動；尚未建立 GitHub Release。
